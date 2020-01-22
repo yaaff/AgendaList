@@ -1,0 +1,44 @@
+.dados{
+    text-align: center;
+        padding: 20px;
+    
+}
+
+.buscar{
+    text-align: center;
+}
+.tabela{
+margin-top: 10px;
+
+
+}
+table  {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    
+  }
+  
+  .formulario{
+      text-align: center;
+      align-items: justify;
+      margin-top: 10px;
+      margin-left:justify;
+      justify-content: space-around;
+      }
+  label{
+      padding: 10px;
+      align-items: ;
+  }
+   input {
+      width: 600px;
+  }
+  .formulario> label {
+      width: 30%;
+  }
+  
